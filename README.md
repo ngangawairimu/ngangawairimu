@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Charles Nganga
 - 👀 A data scientist expert in SQL,Excel,python,visualiation tools power BI and tableau,Machine learning and AWS
+- Information Manager with a strong passion for research and data-driven decision making.
 - 🌱 I’m dedicated to deepening my expertise in data science.
 - 💞️ Fun fact I'm royal
 - 📫 How to reach me Email:charlesnganga06@gmail.com
